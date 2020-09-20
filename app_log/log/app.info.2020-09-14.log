@@ -1,0 +1,118 @@
+2020-09-14 00:26:16.726 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStarting:55 -Starting GradleMybatisApplication on DESKTOP-FM646PE with PID 3360 (F:\project\gradle\build\classes\java\main started by thunderobot in F:\project\gradle)
+2020-09-14 00:26:16.734 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-09-14 00:26:19.314 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8888 (http)
+2020-09-14 00:26:19.330 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8888"]
+2020-09-14 00:26:19.331 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-09-14 00:26:19.332 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-14 00:26:19.439 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-09-14 00:26:19.439 INFO [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 2615 ms
+2020-09-14 00:26:19.586 INFO [main]c.a.d.s.boot.autoconfigure.DruidDataSourceAutoConfigure.dataSource:56 -Init DruidDataSource
+2020-09-14 00:26:19.795 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:928 -{dataSource-1} inited
+2020-09-14 00:26:20.197 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-14 00:26:20.353 WARN [main]org.thymeleaf.templatemode.TemplateMode.parse:150 -[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-09-14 00:26:20.447 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8888"]
+2020-09-14 00:26:20.565 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8888 (http) with context path ''
+2020-09-14 00:26:20.576 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStarted:61 -Started GradleMybatisApplication in 4.645 seconds (JVM running for 5.339)
+2020-09-14 00:26:26.332 INFO [http-nio-8888-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-14 00:26:26.332 INFO [http-nio-8888-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-09-14 00:26:26.339 INFO [http-nio-8888-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 6 ms
+2020-09-14 00:28:13.704 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStarting:55 -Starting GradleMybatisApplication on DESKTOP-FM646PE with PID 9012 (F:\project\gradle\build\classes\java\main started by thunderobot in F:\project\gradle)
+2020-09-14 00:28:13.710 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-09-14 00:28:16.304 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8888 (http)
+2020-09-14 00:28:16.318 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8888"]
+2020-09-14 00:28:16.319 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-09-14 00:28:16.319 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-14 00:28:16.430 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-09-14 00:28:16.431 INFO [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 2634 ms
+2020-09-14 00:28:16.596 INFO [main]c.a.d.s.boot.autoconfigure.DruidDataSourceAutoConfigure.dataSource:56 -Init DruidDataSource
+2020-09-14 00:28:16.817 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:928 -{dataSource-1} inited
+2020-09-14 00:28:17.200 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-14 00:28:17.349 WARN [main]org.thymeleaf.templatemode.TemplateMode.parse:150 -[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-09-14 00:28:17.428 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8888"]
+2020-09-14 00:28:17.549 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8888 (http) with context path ''
+2020-09-14 00:28:17.562 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStarted:61 -Started GradleMybatisApplication in 4.646 seconds (JVM running for 5.384)
+2020-09-14 00:28:29.012 INFO [http-nio-8888-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-14 00:28:29.013 INFO [http-nio-8888-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-09-14 00:28:29.023 INFO [http-nio-8888-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 10 ms
+2020-09-14 00:29:56.200 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStarting:55 -Starting GradleMybatisApplication on DESKTOP-FM646PE with PID 14056 (F:\project\gradle\build\classes\java\main started by thunderobot in F:\project\gradle)
+2020-09-14 00:29:56.206 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-09-14 00:29:57.129 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.warn:44 -No MyBatis mapper was found in '[com.example.gradlemybatis]' package. Please check your configuration.
+2020-09-14 00:29:58.634 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8888 (http)
+2020-09-14 00:29:58.651 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8888"]
+2020-09-14 00:29:58.652 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-09-14 00:29:58.652 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-14 00:29:58.758 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-09-14 00:29:58.759 INFO [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 2462 ms
+2020-09-14 00:29:58.881 WARN [main]o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext.refresh:559 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userServiceImpl': Unsatisfied dependency expressed through field 'userMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.gradlemybatis.mapper.UserMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2020-09-14 00:29:58.887 INFO [main]org.apache.catalina.core.StandardService.log:173 -Stopping service [Tomcat]
+2020-09-14 00:29:59.012 INFO [main]o.s.b.a.logging.ConditionEvaluationReportLoggingListener.logMessage:136 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-14 00:31:29.938 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStarting:55 -Starting GradleMybatisApplication on DESKTOP-FM646PE with PID 9304 (F:\project\gradle\build\classes\java\main started by thunderobot in F:\project\gradle)
+2020-09-14 00:31:29.943 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-09-14 00:31:30.812 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.warn:44 -No MyBatis mapper was found in '[com.example.gradlemybatis]' package. Please check your configuration.
+2020-09-14 00:31:32.184 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8888 (http)
+2020-09-14 00:31:32.199 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8888"]
+2020-09-14 00:31:32.200 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-09-14 00:31:32.201 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-14 00:31:32.301 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-09-14 00:31:32.302 INFO [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 2271 ms
+2020-09-14 00:31:32.406 WARN [main]o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext.refresh:559 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userServiceImpl': Unsatisfied dependency expressed through field 'userMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.gradlemybatis.mapper.UserMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2020-09-14 00:31:32.410 INFO [main]org.apache.catalina.core.StandardService.log:173 -Stopping service [Tomcat]
+2020-09-14 00:31:32.483 INFO [main]o.s.b.a.logging.ConditionEvaluationReportLoggingListener.logMessage:136 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-14 00:32:18.314 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStarting:55 -Starting GradleMybatisApplication on DESKTOP-FM646PE with PID 2616 (F:\project\gradle\build\classes\java\main started by thunderobot in F:\project\gradle)
+2020-09-14 00:32:18.320 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-09-14 00:32:20.496 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8888 (http)
+2020-09-14 00:32:20.510 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8888"]
+2020-09-14 00:32:20.511 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-09-14 00:32:20.512 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-14 00:32:20.613 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-09-14 00:32:20.614 INFO [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 2212 ms
+2020-09-14 00:32:20.758 INFO [main]c.a.d.s.boot.autoconfigure.DruidDataSourceAutoConfigure.dataSource:56 -Init DruidDataSource
+2020-09-14 00:32:21.009 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:928 -{dataSource-1} inited
+2020-09-14 00:32:21.422 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-14 00:32:21.568 WARN [main]org.thymeleaf.templatemode.TemplateMode.parse:150 -[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-09-14 00:32:21.642 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8888"]
+2020-09-14 00:32:21.757 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8888 (http) with context path ''
+2020-09-14 00:32:21.769 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStarted:61 -Started GradleMybatisApplication in 4.237 seconds (JVM running for 4.913)
+2020-09-14 00:32:26.222 INFO [http-nio-8888-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-14 00:32:26.222 INFO [http-nio-8888-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-09-14 00:32:26.231 INFO [http-nio-8888-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 9 ms
+2020-09-14 00:34:24.876 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStarting:55 -Starting GradleMybatisApplication on DESKTOP-FM646PE with PID 10244 (F:\project\gradle\build\classes\java\main started by thunderobot in F:\project\gradle)
+2020-09-14 00:34:24.882 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-09-14 00:34:27.415 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8888 (http)
+2020-09-14 00:34:27.428 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8888"]
+2020-09-14 00:34:27.429 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-09-14 00:34:27.430 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-14 00:34:27.541 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-09-14 00:34:27.542 INFO [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 2571 ms
+2020-09-14 00:34:27.712 INFO [main]c.a.d.s.boot.autoconfigure.DruidDataSourceAutoConfigure.dataSource:56 -Init DruidDataSource
+2020-09-14 00:34:27.917 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:928 -{dataSource-1} inited
+2020-09-14 00:34:28.302 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-14 00:34:28.457 WARN [main]org.thymeleaf.templatemode.TemplateMode.parse:150 -[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-09-14 00:34:28.542 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8888"]
+2020-09-14 00:34:28.670 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8888 (http) with context path ''
+2020-09-14 00:34:28.683 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStarted:61 -Started GradleMybatisApplication in 4.614 seconds (JVM running for 5.292)
+2020-09-14 00:34:32.593 INFO [http-nio-8888-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-14 00:34:32.593 INFO [http-nio-8888-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-09-14 00:34:32.601 INFO [http-nio-8888-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 8 ms
+2020-09-14 00:41:52.837 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStarting:55 -Starting GradleMybatisApplication on DESKTOP-FM646PE with PID 5676 (F:\project\gradle\build\classes\java\main started by thunderobot in F:\project\gradle)
+2020-09-14 00:41:52.843 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-09-14 00:41:55.235 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8888 (http)
+2020-09-14 00:41:55.250 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8888"]
+2020-09-14 00:41:55.251 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-09-14 00:41:55.251 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-14 00:41:55.357 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-09-14 00:41:55.357 INFO [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 2409 ms
+2020-09-14 00:41:55.522 INFO [main]c.a.d.s.boot.autoconfigure.DruidDataSourceAutoConfigure.dataSource:56 -Init DruidDataSource
+2020-09-14 00:41:55.759 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:928 -{dataSource-1} inited
+2020-09-14 00:41:56.161 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-14 00:41:56.319 WARN [main]org.thymeleaf.templatemode.TemplateMode.parse:150 -[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-09-14 00:41:56.412 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8888"]
+2020-09-14 00:41:56.551 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8888 (http) with context path ''
+2020-09-14 00:41:56.565 INFO [main]com.example.gradlemybatis.GradleMybatisApplication.logStarted:61 -Started GradleMybatisApplication in 4.564 seconds (JVM running for 5.187)
+2020-09-14 00:42:03.438 INFO [http-nio-8888-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-14 00:42:03.438 INFO [http-nio-8888-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-09-14 00:42:03.446 INFO [http-nio-8888-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 8 ms

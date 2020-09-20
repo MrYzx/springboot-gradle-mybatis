@@ -1,0 +1,28 @@
+
+server:
+  port: 8888
+  servlet:
+    session:
+      timeout: 30m
+  tomcat:
+    uri-encoding: utf-8
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: ''
+    url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    max-idle: 10
+    max-wait: 10000
+  thymeleaf:
+    cache: false
+    content-type: text/html
+    encoding: UTF-8
+    mode: HTML5
+    prefix: classpath:/templates/views/
+    suffix: .html
+
+mybatis:
+  mapperLocations: classpath:mapping/*.xml
+  type-aliases-package: com.example.gradlemybatis.bean
